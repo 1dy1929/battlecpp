@@ -1,3 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(551,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (battletemplate4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Battle.cpp
-  battletemplate5.vcxproj -> C:\Coding\cpp\NBC\cpptextpractice1\x64\Debug\battletemplate5.exe
